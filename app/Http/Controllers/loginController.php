@@ -62,15 +62,7 @@ class loginController extends Controller
     }
 
 
-    /*
-    if (Auth::user()->department == '0') {
-                
-        return redirect ('hr_dashboard');
 
-    }
-    /*
-
-        
 
 
 
